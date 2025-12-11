@@ -4110,7 +4110,7 @@ rancidBar.value = 0;
       mouseY <= 900 &&
       mouseIsPressed
     ) {
-      
+      guntherBar.hide();
         guntherbgm.stop();
         if (
           rancidBar.value ===
