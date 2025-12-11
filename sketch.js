@@ -4033,8 +4033,7 @@ pop()
 
 //gunther choice 2 ()
 function d3monster4() {
-fungusBar.value = 0;
-rancidBar.value = 0;
+
   //formatting
   push();
   rectMode(CENTER);
